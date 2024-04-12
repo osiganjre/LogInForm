@@ -1,0 +1,33 @@
+body {
+
+    background-image:url(logo/smcc\ logo.png);
+      margin: 0;
+      padding: 0;
+      background-color:#14134F;
+      font-family: 'Arial';
+  }
+  .login{
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+      width: 300	px;
+      overflow: hidden;
+      margin: auto;
+      margin: 20 0 0 450px;
+      padding: 50px;
+      background: #14134F;
+      border-radius: 15px ;
+    background-image: url();
+    
+  }
+  .login a{
+      color: white;
+  }
+  
+  .login input[type="button"]:hover {
+      background-color: #45a049;
+  }
+  .login a:hover{
+      color: green;
+  }
+  
